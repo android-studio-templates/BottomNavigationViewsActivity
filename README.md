@@ -1,0 +1,3 @@
+# BottomNavigationViewsActivity
+
+### Android Studio Template
